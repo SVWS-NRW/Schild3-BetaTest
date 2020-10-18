@@ -1,4 +1,4 @@
-https://user-images.githubusercontent.com/34127980/96366665-4b630f00-1149-11eb-87e0-e4ed45aec95b.jpg
+![alttext](https://user-images.githubusercontent.com/34127980/96366665-4b630f00-1149-11eb-87e0-e4ed45aec95b.jpg)
 
 # Schild3-BetaTest
 Fachberater-Repository für den Beta-Test über GitHub Issues
