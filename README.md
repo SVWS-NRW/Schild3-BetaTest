@@ -9,7 +9,7 @@ Hier werden Dokumente und Hinweise zum Beta-Test für Schild-NRW3.0 abgelegt.
 
 Wichtig! Es folgen einige Hinweise zur Meldung von Fehlern.
 
-* Vergewissern Sie sich bitte, ob nicht schon ein Issue zu dem gefundenen Fehler existiert.
+* Vergewissern Sie sich bitte, ob nicht schon ein Issue zu dem gefundenen Fehler existiert. Zu jedem Hauptreiter existiert ein Label. Mit Hilfe einer Filterung auf dieses Label kann schnell geprüft werden, ob der gleiche Fehler bereits gemeldet wurde. 
 * Probieren Sie Fehler auch mit Datenbanken aus verschiedenen Schulformen aus.
 * Stellen Sie bitte auch imm Beispieldaten zur Verfügung mit denen man den Fehler reproduzieren kann
 * Verwenden Sie bitte niemals Echtdaten!
